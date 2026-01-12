@@ -21,8 +21,8 @@ Target Variable (y): * Runs: The actual runs scored in a match.
 
 ---
 ## 🛠️ Technology Stack
-Language: Python
-Libraries: * Pandas: For data manipulation and analysis.
+Language: **Python**
+Libraries: **Pandas**: For data manipulation and analysis.
 Scikit-Learn: For scaling, splitting data, and building the regression model.
 Openpyxl: To handle Excel file input.
 
