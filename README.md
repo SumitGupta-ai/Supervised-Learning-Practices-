@@ -1,4 +1,4 @@
-## Cricket Runs Prediction using Linear Regression
+## 🏏Cricket Runs Prediction using Linear Regression
 
 This project is a machine learning implementation designed to predict the Runs scored by a batsman based on various match statistics. It utilizes Python's Scikit-Learn library to perform data preprocessing and linear modeling.
 
