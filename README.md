@@ -35,6 +35,6 @@ Algorithm: Implemented Linear Regression to fit the training data.
 
 ---
 ## 📈 Performance Metrics
-The model was evaluated using standard regression metrics:
-R2 Score: ~0.955 (Indicates a high level of accuracy and fit).
-Mean Squared Error (MSE): ~73.73
+**The model was evaluated using standard regression metrics:**
+**R2 Score: ~0.955 (Indicates a high level of accuracy and fit).**
+**Mean Squared Error (MSE): ~73.73**
