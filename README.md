@@ -3,7 +3,7 @@
 This project is a machine learning implementation designed to predict the Runs scored by a batsman based on various match statistics. It utilizes Python's Scikit-Learn library to perform data preprocessing and linear modeling.
 
 ---
-## 📌 Project Overview
+## 📌 Project Overviews
 
 The goal of this project is to build a regression model that can accurately estimate runs scored by analyzing independent variables like balls faced, strike rate, and dot ball percentage.
 
